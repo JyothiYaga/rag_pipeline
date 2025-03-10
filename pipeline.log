@@ -1,0 +1,165 @@
+2025-03-10 23:15:57,293 - INFO - PyTorch version 2.3.1 available.
+2025-03-10 23:15:57,668 - INFO - Loading faiss.
+2025-03-10 23:15:57,825 - INFO - Successfully loaded faiss.
+2025-03-10 23:15:57,876 - INFO - Use pytorch device_name: mps
+2025-03-10 23:15:57,876 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-10 23:16:05,643 - INFO - Use pytorch device_name: mps
+2025-03-10 23:16:05,645 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-10 23:16:08,415 - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-03-10 23:16:12,119 - INFO - PyTorch version 2.3.1 available.
+2025-03-10 23:16:12,259 - INFO - Loading faiss.
+2025-03-10 23:16:12,269 - INFO - Successfully loaded faiss.
+2025-03-10 23:16:12,323 - INFO - Use pytorch device_name: mps
+2025-03-10 23:16:12,323 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-10 23:16:16,293 - INFO - Use pytorch device_name: mps
+2025-03-10 23:16:16,294 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-10 23:16:19,192 - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-03-10 23:17:05,230 - INFO - PyTorch version 2.3.1 available.
+2025-03-10 23:17:05,391 - INFO - Loading faiss.
+2025-03-10 23:17:05,417 - INFO - Successfully loaded faiss.
+2025-03-10 23:17:05,439 - INFO - Use pytorch device_name: mps
+2025-03-10 23:17:05,439 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-10 23:17:09,794 - INFO - Use pytorch device_name: mps
+2025-03-10 23:17:09,794 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-10 23:27:52,684 - INFO - PyTorch version 2.3.1 available.
+2025-03-10 23:27:52,850 - INFO - Loading faiss.
+2025-03-10 23:27:52,874 - INFO - Successfully loaded faiss.
+2025-03-10 23:27:52,914 - INFO - Use pytorch device_name: mps
+2025-03-10 23:27:52,914 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-10 23:27:57,681 - INFO - Use pytorch device_name: mps
+2025-03-10 23:27:57,681 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-10 23:31:15,070 - INFO - Extracted text from uploads/file
+2025-03-10 23:31:15,071 - INFO - Chunked text into 27 parts
+2025-03-10 23:31:17,533 - INFO - Generated embeddings for 27 chunks
+2025-03-10 23:52:37,798 - INFO - PyTorch version 2.3.1 available.
+2025-03-10 23:52:37,965 - INFO - Loading faiss.
+2025-03-10 23:52:37,989 - INFO - Successfully loaded faiss.
+2025-03-10 23:52:38,032 - INFO - Use pytorch device_name: mps
+2025-03-10 23:52:38,032 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-10 23:52:42,920 - INFO - Use pytorch device_name: mps
+2025-03-10 23:52:42,920 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-10 23:52:59,802 - INFO - Extracted text from uploads/file
+2025-03-10 23:52:59,804 - INFO - Chunked text into 27 parts
+2025-03-10 23:53:01,092 - INFO - Generated embeddings for 27 chunks
+2025-03-10 23:54:26,599 - INFO - PyTorch version 2.3.1 available.
+2025-03-10 23:54:26,776 - INFO - Loading faiss.
+2025-03-10 23:54:26,802 - INFO - Successfully loaded faiss.
+2025-03-10 23:54:26,840 - INFO - Use pytorch device_name: mps
+2025-03-10 23:54:26,840 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-10 23:54:31,654 - INFO - Use pytorch device_name: mps
+2025-03-10 23:54:31,654 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-10 23:54:38,903 - INFO - PyTorch version 2.3.1 available.
+2025-03-10 23:54:39,071 - INFO - Loading faiss.
+2025-03-10 23:54:39,083 - INFO - Successfully loaded faiss.
+2025-03-10 23:54:39,106 - INFO - Use pytorch device_name: mps
+2025-03-10 23:54:39,106 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-10 23:54:42,473 - INFO - Use pytorch device_name: mps
+2025-03-10 23:54:42,474 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-10 23:54:51,149 - INFO - PyTorch version 2.3.1 available.
+2025-03-10 23:54:51,298 - INFO - Loading faiss.
+2025-03-10 23:54:51,308 - INFO - Successfully loaded faiss.
+2025-03-10 23:54:51,328 - INFO - Use pytorch device_name: mps
+2025-03-10 23:54:51,328 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-10 23:54:55,165 - INFO - Use pytorch device_name: mps
+2025-03-10 23:54:55,165 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-10 23:55:00,843 - INFO - PyTorch version 2.3.1 available.
+2025-03-10 23:55:00,983 - INFO - Loading faiss.
+2025-03-10 23:55:00,994 - INFO - Successfully loaded faiss.
+2025-03-10 23:55:01,012 - INFO - Use pytorch device_name: mps
+2025-03-10 23:55:01,012 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-10 23:55:05,252 - INFO - Use pytorch device_name: mps
+2025-03-10 23:55:05,252 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-10 23:55:52,687 - INFO - PyTorch version 2.3.1 available.
+2025-03-10 23:55:52,831 - INFO - Loading faiss.
+2025-03-10 23:55:52,842 - INFO - Successfully loaded faiss.
+2025-03-10 23:55:52,861 - INFO - Use pytorch device_name: mps
+2025-03-10 23:55:52,861 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-10 23:55:56,909 - INFO - Use pytorch device_name: mps
+2025-03-10 23:55:56,910 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-10 23:56:02,582 - INFO - PyTorch version 2.3.1 available.
+2025-03-10 23:56:02,720 - INFO - Loading faiss.
+2025-03-10 23:56:02,729 - INFO - Successfully loaded faiss.
+2025-03-10 23:56:02,746 - INFO - Use pytorch device_name: mps
+2025-03-10 23:56:02,746 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-10 23:56:07,696 - INFO - Use pytorch device_name: mps
+2025-03-10 23:56:07,696 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-10 23:56:18,077 - INFO - PyTorch version 2.3.1 available.
+2025-03-10 23:56:18,215 - INFO - Loading faiss.
+2025-03-10 23:56:18,225 - INFO - Successfully loaded faiss.
+2025-03-10 23:56:21,708 - INFO - PyTorch version 2.3.1 available.
+2025-03-10 23:56:21,810 - INFO - Loading faiss.
+2025-03-10 23:56:21,821 - INFO - Successfully loaded faiss.
+2025-03-10 23:56:21,842 - INFO - Use pytorch device_name: mps
+2025-03-10 23:56:21,842 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-10 23:56:26,739 - INFO - Use pytorch device_name: mps
+2025-03-10 23:56:26,740 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-10 23:56:29,667 - INFO - Use pytorch device_name: mps
+2025-03-10 23:56:29,668 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-10 23:56:37,048 - INFO - PyTorch version 2.3.1 available.
+2025-03-10 23:56:37,185 - INFO - Loading faiss.
+2025-03-10 23:56:37,196 - INFO - Successfully loaded faiss.
+2025-03-10 23:56:37,215 - INFO - Use pytorch device_name: mps
+2025-03-10 23:56:37,215 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-10 23:56:41,263 - INFO - Use pytorch device_name: mps
+2025-03-10 23:56:41,264 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-10 23:56:49,330 - INFO - PyTorch version 2.3.1 available.
+2025-03-10 23:56:49,471 - INFO - Loading faiss.
+2025-03-10 23:56:49,481 - INFO - Successfully loaded faiss.
+2025-03-10 23:56:49,500 - INFO - Use pytorch device_name: mps
+2025-03-10 23:56:49,500 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-10 23:56:53,446 - INFO - Use pytorch device_name: mps
+2025-03-10 23:56:53,446 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-10 23:57:48,594 - INFO - PyTorch version 2.3.1 available.
+2025-03-10 23:57:48,767 - INFO - Loading faiss.
+2025-03-10 23:57:48,792 - INFO - Successfully loaded faiss.
+2025-03-10 23:57:48,839 - INFO - Use pytorch device_name: mps
+2025-03-10 23:57:48,839 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-10 23:57:54,179 - INFO - Use pytorch device_name: mps
+2025-03-10 23:57:54,180 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-10 23:58:03,033 - INFO - PyTorch version 2.3.1 available.
+2025-03-10 23:58:03,172 - INFO - Loading faiss.
+2025-03-10 23:58:03,199 - INFO - Successfully loaded faiss.
+2025-03-10 23:58:03,227 - INFO - Use pytorch device_name: mps
+2025-03-10 23:58:03,227 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-10 23:58:08,549 - INFO - Use pytorch device_name: mps
+2025-03-10 23:58:08,549 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-10 23:59:42,623 - INFO - PyTorch version 2.3.1 available.
+2025-03-10 23:59:42,792 - INFO - Loading faiss.
+2025-03-10 23:59:42,817 - INFO - Successfully loaded faiss.
+2025-03-10 23:59:42,859 - INFO - Use pytorch device_name: mps
+2025-03-10 23:59:42,859 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-10 23:59:46,593 - INFO - Use pytorch device_name: mps
+2025-03-10 23:59:46,594 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-10 23:59:49,300 - INFO - FAISS index has been set in Retrieval component
+2025-03-10 23:59:52,290 - INFO - PyTorch version 2.3.1 available.
+2025-03-10 23:59:52,439 - INFO - Loading faiss.
+2025-03-10 23:59:52,450 - INFO - Successfully loaded faiss.
+2025-03-10 23:59:52,469 - INFO - Use pytorch device_name: mps
+2025-03-10 23:59:52,469 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-10 23:59:55,706 - INFO - Use pytorch device_name: mps
+2025-03-10 23:59:55,706 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-10 23:59:58,777 - INFO - FAISS index has been set in Retrieval component
+2025-03-11 00:00:02,443 - INFO - PyTorch version 2.3.1 available.
+2025-03-11 00:00:02,620 - INFO - Loading faiss.
+2025-03-11 00:00:02,632 - INFO - Successfully loaded faiss.
+2025-03-11 00:00:02,652 - INFO - Use pytorch device_name: mps
+2025-03-11 00:00:02,652 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-11 00:00:06,117 - INFO - Use pytorch device_name: mps
+2025-03-11 00:00:06,118 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-11 00:00:09,063 - INFO - FAISS index has been set in Retrieval component
+2025-03-11 00:09:58,700 - INFO - PyTorch version 2.3.1 available.
+2025-03-11 00:09:58,868 - INFO - Loading faiss.
+2025-03-11 00:09:58,892 - INFO - Successfully loaded faiss.
+2025-03-11 00:09:58,930 - INFO - Use pytorch device_name: mps
+2025-03-11 00:09:58,931 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-11 00:10:03,033 - INFO - Use pytorch device_name: mps
+2025-03-11 00:10:03,034 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-11 00:10:05,947 - INFO - FAISS index has been set in Retrieval component
